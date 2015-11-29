@@ -143,7 +143,7 @@ public class ArrayMaster {
 
 		for(int index = 1; index < array.length; index++) {
 
-			if(max < array[index].length()) {
+			if(max.length() < array[index].length()) {
 
 				max = array[index];
 
@@ -165,7 +165,7 @@ public class ArrayMaster {
 
 		for(int index = 1; index < array.length; index++) {
 
-			if(min > array[index].length()) {
+			if(min.length() > array[index].length()) {
 
 				min = array[index];
 

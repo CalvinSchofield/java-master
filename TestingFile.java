@@ -2,7 +2,7 @@
 //Runner File for testing Scripts - Main
 //
 
-public class Testing {
+public class TestingFile {
 
 	public static void main(String[] args) {
 
