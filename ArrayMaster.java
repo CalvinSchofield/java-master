@@ -1,4 +1,6 @@
-//Array Class
+//
+//Array Master Class
+//
 
 public class ArrayMaster {
 
